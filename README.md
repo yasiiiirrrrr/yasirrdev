@@ -12,7 +12,7 @@
 # 🛠️ My Favorite Tools
 
 ### 👨‍💻 Programming Languages
-<div align="left">
+
 <p style="display: inline-block;" align="left">
   <kbd>
     <kbd>Front-end</kbd>
@@ -33,10 +33,10 @@
 
 
   </kbd>
-</div>
+
 
 ### 🧰 Libraries and Frameworks
-<div align="center">
+
 <p style="display: inline-block;" align="left">
   <kbd>
     <kbd>Library/FrameWorks</kbd>
@@ -46,7 +46,7 @@
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   </kbd>
-</div>
+
 ### 💻 Software and Tools
 <p style="display: inline-block;" align="left">
   <kbd>
@@ -58,6 +58,7 @@
     <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/512px-Repl.it_logo.svg.png">
   </kbd>
 </p>
+
 ### 👨🏽‍💻 Workspace
 <p style="display: inline-block;" align="left">
   <kbd>
