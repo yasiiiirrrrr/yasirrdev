@@ -3,7 +3,7 @@
 </div>
 
 # 💫 About Me:
-🚀 Traveling through: Currently diving deep into the Java ocean.<br>🌐 Team Ups: Open to collaboration! Frontend? Backend? Let's explore both universes.<br>📘 Current Quest: Harnessing the power of React, but feeling the allure of the backend mysteries.<br>🔍 My Specialty: Bridging the gap between frontend flair and backend brains. Curious about the blend? Let's chat!<br>🌟 Did you know?: People say I'm 'lazy', but I call it 'conserving energy for creativity'.
+🚀 Traveling through: Currently diving deep into the Java ocean.<br>🌐 Team Ups: Open to collaboration! Frontend? Backend? Let's explore both universes.<br>📘 Current Quest: Harnessing the power of JavaScript and feeling the allure of the backend mysteries.<br>🔍 My Specialty: Bridging the gap between frontend flair and backend brains. Curious about the blend? Let's chat!<br>🌟 Did you know?: People say I'm 'lazy', but I call it 'conserving energy for creativity'.
 
 # 🎵 Spotify:
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=sxnys7lvd0lqfbhswnqmajxmi&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=sxnys7lvd0lqfbhswnqmajxmi&redirect=true)
